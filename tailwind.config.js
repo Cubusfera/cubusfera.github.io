@@ -4,7 +4,7 @@ module.exports = {
     mode: 'all',
     preserveHtmlElements: false,
     content: [
-      './views/index.pug',
+      '*.html',
     ],
   },
   darkMode: 'media', // or 'media' or 'class'
